@@ -1,0 +1,12 @@
+.movie { 
+    flex: 0 1 25%;
+}
+
+button { 
+    background-color : #D02810;
+}
+@media screen and (max-width: 500px) {
+    .movie { 
+        flex: 0 1 50%;
+    }
+}
